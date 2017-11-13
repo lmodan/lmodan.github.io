@@ -5,8 +5,8 @@
     <description>Home of 猫大师 and Herr Giraffe.</description>
     <link>https://lmodan.github.io/</link>
     <atom:link href="https://lmodan.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Nov 2017 15:12:05 +0100</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2017 15:12:05 +0100</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2017 18:01:56 +0100</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2017 18:01:56 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -119,8 +119,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 13:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/zh/tuscany,/italy/2017/11/10/ZH-tuscany/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/zh/tuscany,/italy/2017/11/10/ZH-tuscany/</guid>
+        <link>https://lmodan.github.io/zh/tuscany,/italy/2017/11/10/tuscany/</link>
+        <guid isPermaLink="true">https://lmodan.github.io/zh/tuscany,/italy/2017/11/10/tuscany/</guid>
         
         <category>tuscany</category>
         
@@ -235,13 +235,15 @@ Or rather it is us, the mortal, who have achieved?&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 13:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/tuscany,/italy/2017/11/10/EN-tuscany/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/tuscany,/italy/2017/11/10/EN-tuscany/</guid>
+        <link>https://lmodan.github.io/en/tuscany,/italy/2017/11/10/tuscany/</link>
+        <guid isPermaLink="true">https://lmodan.github.io/en/tuscany,/italy/2017/11/10/tuscany/</guid>
         
         <category>tuscany</category>
         
         <category>italy</category>
         
+        
+        <category>en</category>
         
         <category>tuscany,</category>
         
@@ -263,8 +265,8 @@ Or rather it is us, the mortal, who have achieved?&lt;/p&gt;
 &lt;p&gt;对于文章里的照片来说，读者可以看到照片上的水印，其功能不言自明。我俩能理解有的朋友对于漂亮的照片等等十分喜爱，并且对如此美好事物有“占有欲”，想要得到“原图”，但其实长颈鹿先生觉得这其实并不太合适，另外也着实没有必要。&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 11:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/zh/karlsruhe,/germany/2017/11/10/ZH-the-first-blog/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/zh/karlsruhe,/germany/2017/11/10/ZH-the-first-blog/</guid>
+        <link>https://lmodan.github.io/zh/karlsruhe,/germany/2017/11/10/the-first-blog/</link>
+        <guid isPermaLink="true">https://lmodan.github.io/zh/karlsruhe,/germany/2017/11/10/the-first-blog/</guid>
         
         <category>karlsruhe</category>
         
@@ -289,13 +291,15 @@ After hours experimenting with &lt;em&gt;pagination and multilingual&lt;/em&gt; 
 &lt;p&gt;Turning then for jekyll-paginate-v2 on the second attempt, with the locale settings, it is possible now to paginate/categorize with respect to different languages, the outcome becomes the current version of the website: operational but somehow not-so-elegant. Also theoretically it should work on tablets and smartphones, but some bits like the language selector may not adapt to specific screens so well.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 11:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/karlsruhe,/germany/2017/11/10/EN-the-first-blog/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/karlsruhe,/germany/2017/11/10/EN-the-first-blog/</guid>
+        <link>https://lmodan.github.io/en/karlsruhe,/germany/2017/11/10/the-first-blog/</link>
+        <guid isPermaLink="true">https://lmodan.github.io/en/karlsruhe,/germany/2017/11/10/the-first-blog/</guid>
         
         <category>karlsruhe</category>
         
         <category>germany</category>
         
+        
+        <category>en</category>
         
         <category>karlsruhe,</category>
         
