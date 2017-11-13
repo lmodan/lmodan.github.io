@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>2 mille miglia - page 2</title>
     <meta name="description" content="Home of 猫大师 and Herr Giraffe.">
-    <link rel="canonical" href="http://lmodan.github.io/zh/page2/">
+    <link rel="canonical" href="http://lmodan.github.iohttp://lmodan.github.io/zh/page2/">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/screen.css">
+    <link rel="stylesheet" href="http://lmodan.github.io/css/screen.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -17,10 +17,10 @@
       <div id="ribbon"></div>
       <div id="wrap">
         <header>
-	<a href="/"><h1 style="text-align: center; font-size: 150%;">2 mille miglia</h1></a>
+	<a href="http://lmodan.github.io/"><h1 style="text-align: center; font-size: 150%;">2 mille miglia</h1></a>
 	<h2 style="text-align: center; font-size: 100%;">A journal on the roads of 猫大师 & 长颈鹿</h2>
 	<div class="langsel" style="text-align: right">
-		<li class="lang">
+		<li class="lang" style="list-style-type: none;">
 		  <a href="http://lmodan.github.io/index.html" class="en"><img src="http://lmodan.github.io/img/EN.png" height="15"/></a>
 		  <a href="http://lmodan.github.io/zh/index.html" class="zh"><img src="http://lmodan.github.io/img/ZH.png"  height="15"/></a>
 		</li>
@@ -33,32 +33,20 @@
 
   <section class="post">
     <div class="post-header post-header--dw">
-        <a href="/zh/karlsruhe,/germany/2017/11/10/ZH-the-first-blog/"><h3 class="post-header-title">中文The First Blog</h3></a>
+        <a href="http://lmodan.github.io/zh/karlsruhe,/germany/2017/11/10/ZH-the-first-blog/"><h3 class="post-header-title">你好！</h3></a>
         <h4 class="post-header-date"><span class="ordinal">10</span> November &#8217;17</h4>
     </div>
     <div class="post-body">
-        <p>小小老鼠
-This is the <em>first</em> blog of our website.</p>
+        <p>这是我们网站上面的第一篇文章！</p>
 
-<p>This website is compiled with Jekyll and hosted on Github.
-After hours experimenting with <em>pagination and multilingual</em> Herr Giraffe eventually surrendered and called it a day.</p>
+<p>这个网站是使用Jekyll生成的，并存放在Github上面。
+长颈鹿先生花了好几个小时折腾_主页上的文章分页_和_多语言支持_功能，结果无功而返。</p>
 
-<!---
-This website is compiled with Jekyll and hosted on Github. Limited by accessibility of plugins for Jekyll and failure of producing working multilingual versions of the said website together with pagination, we have opted for pagination for better presentation.
+<p>Jekyll自带的文章分页——比如说在主页显示上一页，下一页，自动把网站里的多个文章5篇放一页上，但是在我们的网站上因为图片较多，干脆一页只显示一片文章——并不能很好地和多语言结合在一起，因为jekyll-paginate并不能按照类别数数，只会数出来网站里总的文章数量，并不会区分中/英文，而我们想要的数值实际上只有总数的一半。jekyll-paginate在好多年前就已经被弃用了，原来的版本演化成了jekyll-paginate-v2，此间另有一系列jekyll-paginate-categories或octopress-paginate之类的其他插件能够替代过时的jekyll-paginate，但是github就是不支持这些另外的插件，解决的办法就是我们只把jekyll生成的结果，也就是_site/文件夹里的内容上传到github，而不是把源码上传，让github自动去生成静态网站。多了一道工序，中间不方便的地方颇多，比如无法使用_config.yaml文件自动设置网站的相关信息，site.url就是个令人头疼的选项，因为自己电脑本地生成的jekyll测试网站是localhost，而github上面的域名是lmodan.github.io，一不小心，网页找不到相关链接，图片就有可能显示不出来。</p>
 
-Chaotic it may look, we have to live with combined Chinese/English text at the moment.
+<p>使用Bootstrap编写的网站理论上能自动适应不同的屏幕尺寸，并且对于retina屏幕有针对性的优化（会载入尺寸稍大的图标，比如网站背景条，文章开头的长颈鹿等等，但并不涉及文章内的照片），可是语言选择的小国旗目前是固定大小的，也许在手机上会偏大一些。</p>
 
-***
-
-我们刚刚在自己的网站上写下了_第一篇_blog。
-这个网站依然是使用jekyll生成的，这也意味着网站展示的是“静态”内容，没有如php一类的通过数据库等等数据自动生成网页的功能。
-
-对于blog来说这些理论上是足够的，除了一些pagination功能和多语言不容易整合的毛病（jekyll-paginate本身和以octopress-multilingual为代表的多语言网页设置似乎不太搭调，如果是静态网页想要设置多种语言版本，最直接的做法就是使用多个静态网页，#如果在posts里面对应不同语言有多重版本的日志，jekyll-paginate以至于octopress-paginate都不能很好地对他们进行分类折叠，至少在几个小时瞎鼓捣之后没有成功）。
-
-github上面如果不使用额外的plugins，比如octopress等等来生成网站，就只好是paginate或multilingual二选一了。
-
-我们俩讨论以后觉得可能以后blog内容也不一定写双份的语言，家人朋友和同事们要是需求不同，干脆就挑方便的看好了，于是就形成了中英文混写的混乱局面。
---->
+<p>对于文章里的照片来说，读者可以看到照片上的水印，其功能不言自明。我俩能理解有的朋友对于漂亮的照片等等十分喜爱，并且对如此美好事物有“占有欲”，想要得到“原图”，但其实长颈鹿先生觉得这其实并不太合适，另外也着实没有必要。</p>
 
     </div>
     <div class="post-footer">
@@ -77,17 +65,17 @@ github上面如果不使用额外的plugins，比如octopress等等来生成网�
 
 <ul class="pagination">
   <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric"  href="/index.html">&larr; First page</a>
+    <a class="pagination-link pagination-link--non-numeric"  href="http:/lmodan.github.io/index.html">&larr; First page</a>
   </li>
   <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric"  href="/zh/index.html">&larr; Prev</a>
+    <a class="pagination-link pagination-link--non-numeric"  href="http:/lmodan.github.io/zh/index.html">&larr; Prev</a>
   </li>
 
   <!-- Numbers -->
   
     <li class="pagination-item">
       
-        <a class="pagination-link" href="/index.html">1</a>
+        <a class="pagination-link" href="http:/lmodan.github.io/index.html">1</a>
       
     </li>
   
@@ -100,10 +88,10 @@ github上面如果不使用额外的plugins，比如octopress等等来生成网�
   <!-- End of numbers -->
 
   <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="">Next &rarr;</a>
+    <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="http:/lmodan.github.io">Next &rarr;</a>
   </li>
   <li class="pagination-item">
-    <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="nil">Last page &rarr;</a>
+    <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="http:/lmodan.github.ionil">Last page &rarr;</a>
   </li>
 </ul>
 
@@ -112,9 +100,9 @@ github上面如果不使用额外的plugins，比如octopress等等来生成网�
       <footer>
     <div class="about-wrap">
         <section class="about">
-            <img class="about-avatar" src="/img/avatar.jpg" border="0" alt="[name]" />
+            <a href="http://lmodan.github.io/about.html" style="color: inherit; text-decoration: inherit;"><img class="about-avatar" src="http://lmodan.github.io/img/avatar.jpg" border="0" alt="[name]" /></a>
             <div class="about-body">
-                <p class="about-body-title">About</p>
+                <p class="about-body-title"><a href="http://lmodan.github.io/about.html" style="color: inherit; text-decoration: inherit;">About</a></p>
                 <p class="about-body-description">Home of 猫大师 and Herr Giraffe.</p>
 				<p class="about-body-description">All rights reserved for both text and photographic content.</p>
                 <ul>
@@ -126,6 +114,6 @@ github上面如果不使用额外的plugins，比如octopress等等来生成网�
     </div>
 </footer>
 
-      <script type="text/javascript" src="/js/travelog.js"></script>
+      <script type="text/javascript" src="http://lmodan.github.io/js/travelog.js"></script>
     </body>
 </html>
