@@ -3,11 +3,243 @@
   <channel>
     <title>2 mille miglia</title>
     <description>Home of 猫大师 and Herr Giraffe.</description>
-    <link>https://lmodan.github.io/</link>
-    <atom:link href="https://lmodan.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Dec 2017 14:23:14 +0100</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 14:23:14 +0100</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 10 Dec 2018 22:09:49 +0100</pubDate>
+    <lastBuildDate>Mon, 10 Dec 2018 22:09:49 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>一封给海的情书</title>
+        <description>&lt;p&gt;居于卡城，我们离北边风吹卷着暴虐的海，西边波澜壮阔的海，以及南边日光璀璨月影斑斓的海距离大概相同，8小时的车程，陆地似乎就能走到尽头。我时时和同事们谈起海滨度假的事情，想知道他们更为偏好哪边的海，结果三个人却有三种不同的答案。在稍许干旱一年的仲夏时节，我们又启程向南面去了，长颈鹿先生边做着出游的计划，边拖着一条长长的尾巴：修改文稿的事情还没做完——大概运气不好，两次投稿被打回了两次，本来3月就告一段落的事情，谁知尾声拖到12月还有余音呢。当时我们并不能预知未来的事情，不知道烦心事还要耽搁这么久，否则焦虑和杂念还会少徘徊些。假期终究是假期，收拾好行李，这就出发了。&lt;/p&gt;
+
+&lt;p&gt;卡城向南走总是需要翻山，而这山几无阙处。此程我们并未穿过隧道，而是从哥达德山口的顶端翻越过去。一旦登顶，就仿佛闻到了海风的气息。从此处崇山峻岭一直延伸到蔚蓝海岸边，把所谓Riviera分成两节。法国一半因灯红酒绿出名，当年工业发家的英国人们如潮水一般涌来大陆上度假，彻底把这些渔村海防变了模样，一如果阿，新加坡或澳门香港，当然了殖民的故事另说。这些旅游城市的风貌变化，大抵却是相似的。确确实实的宝石蓝色的大海之滨点缀着如假包换的珠光宝气的身影，港里处处泊满了巨贾游艇，城中操持各种语言，打扮各异的投机商人们模特们都准备捯饬一番碰碰运气。比较起来，本地的法国住客倒显得有点土里土气的，一处酒吧粉笔写着招牌说我们明天播世界杯决赛啤酒套餐打折，速速预订要不到时候没位置坐，超市里老太跟着周末之前运最后一波新鲜蔬菜和法棍面包的平板车在超市里乱走，人家推车边推，她们一边挑拣，指指点点还扒拉掉几片似乎坏了的叶子。在Antibes在港边停车，还需要步行穿城才能过回住处，我本想在摩肩接踵的路边一个小铺随便买两张披萨饼外卖带回家，结果胖墩墩的厨子女士也讲不清那种饼好吃，不好推荐，两边大眼瞪小眼地对垒了起来，等到我说起取折中的办法一荤一素好了，厨师又头脑清醒地马上制止说，“不妥不妥，没肉不行，没肉怎么会好吃呢？”&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5602.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; 
+		一条小艇从Corniglia山崖下经过。
+	&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;另一侧的意大利人则是法国人天生的冤家，历史上两方互相劫掠袭扰邻居港城的坏事没少做。意大利人本是富足的，如热亚那等等从来就是经济和工业重镇，如今光辉却是不及邻居，正如世界杯期间在家看比赛的意大利国家足球队，只能隔海瞧邻居拿冠军的庆祝焰火。就在热亚那和托斯卡纳中间，意大利段的蓝色海岸也许稍显逊色，亦有一些室外桃源一般的海角村落，比如Portofino，法拉利还拿这名字贴在了代替California的新车上，似是标榜又一种生活方式，又比如五渔村，这伙人可是实实在在的，向络绎不绝的游客们炫耀着自己的生活方式。&lt;/p&gt;
+
+&lt;p&gt;几个小庄面包屑一般撒在曲折的海岸线上，每每有一个微缩的“峡湾”，就有一个村子藏在里面。几个村子如此之小，从村子任意一角走到港边——典型的港口防波堤内也就大概游泳池大小的地方——不过三五分钟的功夫。想要到达这些村子我们费了大劲，从Genoa过来的路上，高速弯弯绕绕，时常有修路的地方，各个高速出口也十分隐蔽，想要不走错路，就得瞪大眼睛。不巧的是此处的意大利车手们来了劲头，视公路为自家赛车场，在弯角上外-内-外地跑起赛车线来，和货车们挤在一起，十分吓人。为了躲他们，也为了看看海，我们拐到海滨的公路上，窗外却并非Riviera招贴画上的香氛四溢的酒店赌场们，反而飘进窗一股臭鱼烂虾的气味。天阴着，海风不时吹来几滴雨水，绕路行车怕是要迟到酒店，目的地村口仅有的几个车位怕是也抢不到了。可是弯弯绕绕的焦虑之间，从Levanto上山路，一直到Riomaggiore，路上除了仅有的几对行人和渔村公交，其他建筑，喧嚣，甚至路牌，全都不见，可鸟瞰山脚下海好似伸手可及，随着山路走向变化，一会儿我们能看到海面一会儿海又消失，但等到下次见到她的时候，依旧是那片海面，微微荡漾着些许波澜。这时太阳也从云后不时探出头来，海面金光映得人恍惚。在外面看起来，我们在山间高处绝尘穿梭该是十分潇洒的模样罢，有谁能听到车里俩人哪怕嘎吱嘎吱薯片果腹，但肚子还在咕咕叫呢？&lt;/p&gt;
+
+&lt;p&gt;Manarola近在眼前，可我们还得去La Spezia城里停车，只得暂且作别。&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5308.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5666.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;
+    	&lt;span class=&quot;post-image-caption-left&quot;&gt;
+		Manarola的著名拍照位置，一座山墙上布满了五颜六色的房子。
+    	&lt;/span&gt;
+	&lt;span class=&quot;post-image-caption-right&quot;&gt;
+    		Riomaggiore的著名拍照位置，从下面港口出海有五颜六色的Kayak租赁。
+    	&lt;/span&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;回程的火车轰隆隆地穿山而行，比山间公路更为贴近海水，不过窗外蔚蓝一瞬而逝，下午空气也愈发燥热，慕名而来的整车旅客连带他们的大包小裹挤作一团，是更细碎的面包屑，按他们自己的意愿和对假期的想象，要被分配到不同渔村不同位置的住处，而每个人都该于此有心满意足的归宿，想来也有趣。多少狼狈地推箱子爬坡差不多回到刚才路过的地方，已是满头大汗甚至有点中暑，旅店接待对这样游客估计也见得多了，一板一眼地却不着急，交待早餐和交通等等，还大大赞赏起早起去Portovenere的游船，我俩已经热成了通红的龙虾，只能将就听着。&lt;/p&gt;
+
+&lt;p&gt;不一会儿，俩人就去寻真正的龙虾啃了，这时窗框外的海如画一般舒展向远方，热闹下海泡着或排队自拍的如织游人五颜六色，像是和海鲜以及各种酱搅在一起的乱糟糟的面条，也赏心悦目起来。Manarola有着五渔村最为著名的风景之一，在拍照的位置一家看得见风景的酒吧动次打次喧闹非凡，背后村民的祠堂修的有如大闹天宫动画片里孙猴变作的小庙一般，凝视着这片海。对于渔民来说，海大概是可敬又可畏的，这里捞得起龙虾，但是海水对于陆生的哺乳动物来说却并不十分友好，毛发覆身的家伙们几乎没有几个喜欢主动去沾水的，比方说猫，大多只敢拿爪子去拍拍水面。地中海虽然有不少大陆淡水河流流入，但毕竟几乎被陆地圈了起来，水汽蒸发之后盐度很高，但种种因素都于行船方便，给最早的文明发展创造了良机——相比陆运，海上大宗商货运输容易很多，造船的木料容易获得，也方便加工，岛间聚落更容易形成自己的社会组织，才那么方便地有古代希腊占岛为王垄断经商。米诺斯的牛，以及附近一圈阿纳托利亚，或者伯罗奔尼撒城邦的崛起，一场大战引出奥德修斯和埃涅阿斯离乡漂泊的故事，此时海对面突尼斯的迦太基也被搅合了进来，然后退场让位给新发家的埃及亚历山大和罗马。这一切都在地中海澡盆的边缘上被人称颂着，中间还穿插些外来故事，比如希波战争，全都的焦点在这片海上（如果打赢了），或海底（打输的一方）。地中海澡盆里海洋也不是时时平静，人们口口相传说海神时不时有着坏脾气，可是试想远在东方的我们呢？太平洋待我们严厉多了，年年西太平洋台风都要来那么几次，东海甚至渤海都保不齐要遭灾，渡海远行的故事哪怕千年之后也不过寥寥，也怪不得自古传言我们被四海围了起来，别处过不去，久而久之另外那头是啥不会有人问，也就再也无从知晓了。大概如此便有了社会组织的差异，大概如此文化发展了各自的性格，大概如此就潜移默化区分了西方和东方——一片平静的海，是为故事开头。&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5661.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5537.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;
+    	&lt;span class=&quot;post-image-caption-left&quot;&gt;
+		去往Corniglia的爬山台阶上，一只懒猫尾巴打着节拍，给路人鼓劲。
+    	&lt;/span&gt;
+	&lt;span class=&quot;post-image-caption-right&quot;&gt;
+    		Monterosso有最大的市集，路边种满了各种植物，有西红柿，三角梅，也有大团的绣球。
+    	&lt;/span&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;徒步的路途还在修缮，如此炎热的天气也确实不适合步行跋涉，在山中穿梭的，就全要依托火车。在火车上需要时时留神，这里的窃贼十分嚣张，两位年轻小女孩不知怎么盯上了我俩，还特意放我先下车，把猫大师拦在了后面偷偷拉开背包拉锁摸看起来像钱包的东西。黑黑鼓鼓的，可惜是个墨镜盒，我此时转身正奇怪这小偷一号为啥特意挡路，准备去理论，后面排队下车的旅客也不耐烦了正要发声，说时迟那时快地，小偷二号便丢下了墨镜盒，马上假装捡起来交还给我们。坐火车到Corniglia看猫，或者去Vernazza等日落，总是要拿着列车时刻表瞧了又瞧。傍晚时分，背对着夕阳爬山登高，发现最好的照相位置一家饭馆，座位几近被订满了，直到落日最为精彩的时候，穿得像模像样的，岁数大些的，消息灵通的人们纷纷落座，开瓶酒喝，老太太拿手机对着太阳来上两张相片就心满意足了似的，大概人们认识和欣赏的方式不大相同？当然了，人们追求美的途径以及付出，也不尽相同。我们从坡上向下，碰到一老外和一同胞摆着三脚架用慢门拍摄，这样把海浪模糊成朦胧的一片，但是低一点的位置灯塔和背景中的远山就重叠在一起了，我不知道这个不远万里背三脚架来拍照的家伙会不会因为没有更上几层台阶而懊恼。&lt;/p&gt;
+
+&lt;p&gt;另一种交通方式么，则是划艇。此时船上只有俩人，亲切而完全贴近海水——事实上在sit-on-top的划艇上面，因为舱室没有盖子，海水被船桨带起，会搞得全身都是，水晾干之后，身上则是大块的盐，舔一舔咸的不行。彼时我们还没有自己的划艇，虽然之前“研究“了不少视频教程，进行了充分的心理建设（默念万一落水了不要慌张），也在Schluchsee上演习过两把，在这里可是真的第一次在开放水面上划船。后来我们带着自己的划艇去过不少次博登湖，水面也很开阔与海里类似，亦遇上不少波浪，但是湖上与海上由于水深差别很大，浪涌的程度终究不同。好在海上交通不是很复杂，没有百舸争流的混乱场面。说起划艇，这其实是人类最原始的交通工具之一，和独木舟结构功能基本相仿。据说从东南亚出发，人们最初就用这些简易船只逐岛扩张，桨迹几乎划遍了南太平洋。那时没有精确导航，没有地图，很难想象什么样的好奇心能把人带领到那么远的地方。较为现代一些的划艇主要以北冰洋上的样本发展而来，有了木头框架和软质船体，制造和维护修理就变得容易多了。前些年靠着现代导航，通讯，地图，有计划的训练和特制的船，一伙女士志愿者能几十天从美国划一条大些的船从美国西岸到夏威夷再到澳大利亚，还有空搞些宣传活动，补充采访场务，最后素材剪辑成纪录片在Netflix上面吹捧一番，确实也是激动人心事情。可除去所谓英雄人物，我们其实并不需要再多一种把人从A运到B的慢吞吞的水上交通工具，大伙也无需刻意挑战自然，毕竟提前看天气预报选最好的时节按最理想的路线泛舟比起古人来说简直就是作弊——和雇夏尔巴人上上下下给几个前进营地的帐篷里面备好食物水燃料和氧气，然后听向导报告说现在天气好赶快上山，就系着人家给拉好的绳子勇攀珠穆朗玛峰一样。这种“壮举”实在是打了不少折扣。一部好笑的电影comme un avion很好描述了这种自我迷醉的“伟大壮举”，前半段雄心壮志磨刀霍霍要突破束缚，后半段破罐破摔糊弄了事，和主题歌comme un avion sans aile —— 没翅膀的飞机字面义一样，结局让人啼笑皆非。&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5761.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5706.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;
+    	&lt;span class=&quot;post-image-caption-left&quot;&gt;
+		Manarola之夜，阳台上眺望满天星辰，就是后来给冻坏了，在被子里瑟瑟发抖半天。
+    	&lt;/span&gt;
+	&lt;span class=&quot;post-image-caption-right&quot;&gt;
+    		Vernazza的著名拍照位置，看日落的最好地方被饭馆占据了，画面最右边有个碉楼，顶上站着白色海鸥，下面摄影师带着白色小帽子，不来吃饭，就只好到那里占位。
+    	&lt;/span&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;而还有另外一种“佛系”划船的人，从A到A，“纵一韦之所如，凌万顷之茫然”。&lt;/p&gt;
+
+&lt;p&gt;远远的，岸上的人声开始混合成无法分辨的一团，离岸稍远，海鸥也不常在此觅食了，只剩下海水轻抚船舷的声音，伴随着整个划艇按照波浪形状，上下起伏，拍打，黏滞，与海水融为一体。海水愈深，洋面的变化愈为多端，波浪的波长也有相应的变化，而较少受到海底或海岸形状的约束。记得本科大概一年级或二年级的时候一伙中学同学在北海公园泛舟，还详细辩驳起表面波机制的种种，此时托着相机拍照，等风浪起的时候，再仔细调整，也很难把取景器端平，海浪轻柔，却无时无刻不是善变的。追马车的高斯，写几个方程算出来呼吸子，万千知识和思绪此刻就被抛去了天边。&lt;/p&gt;
+
+&lt;p&gt;仿佛拥抱着星球本身的呼吸韵律，这神秘多变又流动的实体，除却几条帆船点缀其间，便是无垠。我们四面被波浪环绕，飘荡在摇篮里，由此海才是真的能沾湿指尖，捧一把海水，捞起来的一点点透明流体瞬时祛魅，变得再普通不过。&lt;/p&gt;
+
+&lt;p&gt;可海的颜色却没有减少半分，
+蓝得不可触碰。&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5423.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; 
+		从摇摇晃晃的Kayak上面看到动人心魄的碧水蓝天。
+    &lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 09 Dec 2018 21:12:00 +0100</pubDate>
+        <link>http://localhost:4000/zh/cinque-terre,/italy/2018/12/09/cinque-terre/</link>
+        <guid isPermaLink="true">http://localhost:4000/zh/cinque-terre,/italy/2018/12/09/cinque-terre/</guid>
+        
+        <category>cinque-terre</category>
+        
+        <category>italy</category>
+        
+        
+        <category>zh</category>
+        
+        <category>cinque-terre,</category>
+        
+        <category>italy</category>
+        
+      </item>
+    
+      <item>
+        <title>A love letter to the sea</title>
+        <description>&lt;p&gt;Starting from Karlsruhe, it is equally 8 hours’ drive to the sea, either to the north, to the south, or to the west. Well they have different characters, fitting probably again to various characters among the colleagues. I remember asking 3 people about their favourite trips to the coast, and back-propagated are 3 distinct answers. For an somehow arid summer, we have packed our luggages again and headed south to the riviera, Italian and French.&lt;/p&gt;
+
+&lt;p&gt;Southwards from Karlsruhe, there is always the Alps to get over with. Young in terms of geological age, the mountain ranges extend itself almost without a single easy passage. Some decades ago, human saw this irritating and inconvenient, so they made one, with calculated, but also quite brute force. Travelling through Gotthard Pass via the heart of the mountains several rounds, we are literally getting over with it this time. High altitude grasslands, check! Curious looking cattles, check! Paved roads, check! And cobbled roads, check! Also tell me about the views of the valley and bridges hanging in the air so that the two tarmacs running parallel at different altitudes could join. Not necessarily topologically a Mobius band, yet it really drives like one as it is hard to believe such looking road so twisted keeps you on the right side where gravity always points downwards.&lt;/p&gt;
+
+&lt;p&gt;Also from here it is so high that from the winds you almost smell the sea.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5602.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; 
+		A boat awakes the water beneath hills of Corniglia.
+	&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;There is the riviera, almost always ubiquitously as the French one. However from Genoa onwards one also finds a nicely decorated coastline stretching to the east, namely the Italian riviera. Since some strange era the English have got themselves suddenly wealthy and interested for stuff off the rock, grand tourers find their ways to the fishery villages and bankers’ towns here and perpetually changed the riviera. Later dividing the riviera into two parts, the French and the Italian, one of them got better recognition, say, from the likes of royal families and prevailed in the competition of tourism attraction to this day. Coastal forts and fishermen have to give way to glamorous hotels and the casino city, while in the rest of the world similar stories apply to Goa, Macau, Singapore and Hong Kong, well, minus probably colonism.&lt;/p&gt;
+
+&lt;p&gt;In these brand-new towns of marble one finds now posh suits on businessman and any shiny stuff in  imaginable forms on the models on the French riviera speaking all kinds of languages. Armanda of yachts occupied harbours, declaring their presence with the shear sizes from miles away. Though in the towns the locals seem a little bit less as posh. We arrived at Antibes on the Bastille Day, when a grove of emotion has already been touchable. All things mundane exhibit themselves without reservation as everyone prepares to witness the best news in years to broadcast from the television. Bars welcomes gathering for the live of grand finale of the World Cup and reminds people of all discounts if they place the orders now, and disregard the people on the yachts betting for the scores of another football match, this is the day working class owns the town.&lt;/p&gt;
+
+&lt;p&gt;I remember ordering pizza from a food stand and could not decide between Napoleon something and Riviera some-other-thing, before giving up and asked for a pizza with meat along with another with vegetables. The cook was astonished and went “Ah non, what’s the point with no meat? How is it possible to be tasty without meat in the topping?” See? Mundane people yet so honest and so adorable.&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5308.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5666.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;
+    	&lt;span class=&quot;post-image-caption-left&quot;&gt;
+		Manarola，a village where every evening a full-spectrum-colored house kiss the sun goodbye.
+    	&lt;/span&gt;
+	&lt;span class=&quot;post-image-caption-right&quot;&gt;
+    		Riomaggiore, a narrow harbour from which we started kayaking.
+    	&lt;/span&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;On the other side where the sun rises from, Italian riviera is not as shiny nor as the people there in ecstasy are the French do, with their national football team also watching games than playing in them. From Genoa to almost Tuscany, this side of the riviera used to sell life styles with the best public relation people writing about them, say, from Lord Byron. Not so long ago Ferrari tried once more remind people of such points by renaming their “entry level” sports car from California to Portofino. Well, I wish it were helpful to strengthen sales number in the largest market of Ferrari. On the other hand though, guess how many tourists from the US or China know about Cinque Terre?&lt;/p&gt;
+
+&lt;p&gt;All souls, most remarkably recognized as being Chinese, US, or German, seem to enjoy the life style offered by Cinque Terre. Scattered along the coastal natural park, each concave in the hills offers space for a miniature harbour, and dig deeper into the hills you find colorful homes as if built with LEGO expanding each of these harbour areas. Difficult terrain prevents our approaching directly by car to Manarola however the drive starting from Levanto is so rewarding. From time to time the sea shimmers as you have a bird view from the road looking down to the ocean. It seems as if one could open the window and have a dip of finger into the blue but the sea is being patient and kept her distance. Having taken 100 turns to get closer, the same peaceful water still smiles at you, yet again out of reach from a stone’s throw away.&lt;/p&gt;
+
+&lt;p&gt;On and on the road stretches, very scarcely a road sign reads and a branching of road finds itself winding to one of these villages which is not exactly the destination. Time is lost, with little gasps heard only between us as a blind turn is taken with new piece of road appears into another blind turn. Thoughts of “are we there yet” cannot be told from the Satnav as the map there seemingly rotates itself randomly. Perhaps from the outside it is quite a grasping view a sole driver kicks up dirt along the hillside overlooking an amazing view of the sea, it may work for the advertisements, yet feeling so strange as we have all the scenery to ourselves and got lost in one of the most beautiful places.&lt;/p&gt;
+
+&lt;p&gt;Oulala there is finally Manarola where our hotel is located, well then, no parking spots.&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5661.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5537.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;
+    	&lt;span class=&quot;post-image-caption-left&quot;&gt;
+		Corniglia, located on the top of some hills, is only reachable after a climb over a number of stairs. Midway a cat is watching over tourists and cheer them up if he wishes and bothers to do so, note the curled tail of his.
+    	&lt;/span&gt;
+	&lt;span class=&quot;post-image-caption-right&quot;&gt;
+    		Monterosso, the largest village amongst the five with a huge marketplace.
+    	&lt;/span&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It is not hard to imagine in a tight place in between pieces of rocks commuting becomes an issue, but as we have later learnt, it has been really good we have to take the train, seeing everything from a different perspective. From the tracks there is a huge plus as the viewpoint is even closer to the waterside, and the sea is realy magnificent as sounds of the wave clashing with the breakwater echoes all along the tunnel. Downside is, from within the tunnels there is nothing much to see, apart from once in a while a split second of something so blue from the eyes trickles down into the heart of a eager viewer, expecting so anxiously with wide-open eyes in front of the window the next drop of azure.&lt;/p&gt;
+
+&lt;p&gt;不一会儿，俩人就去寻真正的龙虾啃了，这时窗框外的海如画一般舒展向远方，热闹下海泡着或排队自拍的如织游人五颜六色，像是和海鲜以及各种酱搅在一起的乱糟糟的面条，也赏心悦目起来。Manarola有着五渔村最为著名的风景之一，在拍照的位置一家看得见风景的酒吧动次打次喧闹非凡，背后村民的祠堂修的有如大闹天宫动画片里孙猴变作的小庙一般，凝视着这片海。对于渔民来说，海大概是可敬又可畏的，这里捞得起龙虾，但是海水对于陆生的哺乳动物来说却并不十分友好，毛发覆身的家伙们几乎没有几个喜欢主动去沾水的，比方说猫，大多只敢拿爪子去拍拍水面。地中海虽然有不少大陆淡水河流流入，但毕竟几乎被陆地圈了起来，水汽蒸发之后盐度很高，但种种因素都于行船方便，给最早的文明发展创造了良机——相比陆运，海上大宗商货运输容易很多，造船的木料容易获得，也方便加工，岛间聚落更容易形成自己的社会组织，才那么方便地有古代希腊占岛为王垄断经商。米诺斯的牛，以及附近一圈阿纳托利亚，或者伯罗奔尼撒城邦的崛起，一场大战引出奥德修斯和埃涅阿斯离乡漂泊的故事，此时海对面突尼斯的迦太基也被搅合了进来，然后退场让位给新发家的埃及亚历山大和罗马。这一切都在地中海澡盆的边缘上被人称颂着，中间还穿插些外来故事，比如希波战争，全都的焦点在这片海上（如果打赢了），或海底（打输的一方）。如此澡盆里海洋也非时时平静，才有海神脾气不好的传说，试想远在东方年年西太平洋上台风都要来那么几次，渡海远行的故事千年之后也不过寥寥。如此便有了社会组织的差异，如此文化各自发展了性格，如此大概就区分了西方和东方——一片平静的海，是为故事开头。&lt;/p&gt;
+
+&lt;p&gt;徒步的路途还在修缮，如此炎热的天气也确实不适合步行跋涉，在山中穿梭的，就全要依托火车。在火车上需要时时留神，这里的窃贼十分嚣张，两位年轻小女孩不知怎么盯上了我俩，还特意放我先下车，把猫大师拦在了后面偷偷拉开背包拉锁摸看起来像钱包的东西。黑黑鼓鼓的，可惜是个墨镜盒，我此时转身正奇怪这小偷一号为啥特意挡路，准备去理论，后面排队下车的旅客也不耐烦了正要发声，说时迟那时快地，小偷二号便丢下了墨镜盒，马上假装捡起来交还给我们。坐火车到Corniglia看猫，或者去Vernazza等日落，总是要拿着列车时刻表瞧了又瞧。傍晚时分，背对着夕阳爬山登高，发现最好的照相位置一家饭馆，座位几近被订满了，直到落日最为精彩的时候，穿得像模像样的，岁数大些的，消息灵通的人们纷纷落座，开瓶酒喝，老太太拿手机对着太阳来上两张相片就心满意足了似的，大概人们认识和欣赏的方式不大相同？当然了，人们追求美的途径以及付出，也不尽相同。我们从坡上向下，碰到一老外和一同胞摆着三脚架用慢门拍摄，这样把海浪模糊成朦胧的一片，但是低一点的位置灯塔和背景中的远山就重叠在一起了，我不知道这个不远万里背三脚架来拍照的家伙会不会因为没有更上几层台阶而懊恼。&lt;/p&gt;
+
+&lt;p&gt;另一种交通方式么，则是划艇。此时船上只有俩人，亲切而完全贴近海水——事实上在sit-on-top的划艇上面，因为舱室没有盖子，海水被船桨带起，会搞得全身都是，水晾干之后，身上则是大块的盐，舔一舔咸的不行。彼时我们还没有自己的划艇，虽然之前“研究“了不少视频教程，进行了充分的心理建设（默念万一落水了不要慌张），也在Schluchsee上演习过两把，在这里可是真的第一次在开放水面上划船。后来我们带着自己的划艇去过不少次博登湖，水面也很开阔与海里类似，亦遇上不少波浪，但是湖上与海上由于水深差别很大，浪涌的程度终究不同。好在海上交通不是很复杂，没有百舸争流的混乱场面。说起划艇，这其实是人类最原始的交通工具之一，和独木舟结构功能基本相仿。据说从东南亚出发，人们最初就用这些简易船只逐岛扩张，桨迹几乎划遍了南太平洋。那时没有精确导航，没有地图，很难想象什么样的好奇心能把人带领到那么远的地方。较为现代一些的划艇主要以北冰洋上的样本发展而来，有了木头框架和软质船体，制造和维护修理就变得容易多了。前些年靠着现代导航，通讯，地图，有计划的训练和特制的船，一伙女士志愿者能几十天从美国划一条大些的船从美国西岸到夏威夷再到澳大利亚，还有空搞些宣传活动，补充采访场务，最后素材剪辑成纪录片在Netflix上面吹捧一番，确实也是激动人心事情。可除去所谓英雄人物，我们其实并不需要再多一种把人从A运到B的慢吞吞的水上交通工具，大伙也无需刻意挑战自然，毕竟提前看天气预报选最好的时节按最理想的路线泛舟比起古人来说简直就是作弊——和雇夏尔巴人上上下下给几个前进营地的帐篷里面备好食物水燃料和氧气，然后听向导报告说现在天气好赶快上山，就系着人家给拉好的绳子勇攀珠穆朗玛峰一样。这种“壮举”实在是打了不少折扣。一部好笑的电影comme un avion很好描述了这种自我迷醉的“伟大壮举”，前半段雄心壮志磨刀霍霍要突破束缚，后半段破罐破摔糊弄了事，和主题歌comme un avion sans aile —— 没翅膀的飞机字面义一样，结局让人啼笑皆非。&lt;/p&gt;
+
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5761.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5706.jpg&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;
+    	&lt;span class=&quot;post-image-caption-left&quot;&gt;
+		Manarola at night, the sky rotates (or essentially the Earth rotates more than the stars) to present a range of constellations.
+    	&lt;/span&gt;
+	&lt;span class=&quot;post-image-caption-right&quot;&gt;
+    		Vernazza, harbor with a proper lighthouse, best photoshooting position is located, well, in a restaurant half up the hill.
+    	&lt;/span&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;而还有另外一种“佛系”划船的人，从A到A，“纵一韦之所如，凌万顷之茫然”。&lt;/p&gt;
+
+&lt;p&gt;远远的，岸上的人声开始混合成无法分辨的一团，离岸稍远，海鸥也不常在此觅食了，只剩下海水轻抚船舷的声音，伴随着整个划艇按照波浪形状，上下起伏，拍打，黏滞，与海水融为一体。海水愈深，洋面的变化愈为多端，波浪的波长也有相应的变化，而较少受到海底或海岸形状的约束。记得本科大概一年级或二年级的时候一伙中学同学在北海公园泛舟，还详细辩驳起表面波机制的种种，此时托着相机拍照，等风浪起的时候，再仔细调整，也很难把取景器端平，海浪轻柔，却无时无刻不是善变的。追马车的高斯，写几个方程算出来呼吸子，万千知识和思绪此刻就被抛去了天边。&lt;/p&gt;
+
+&lt;p&gt;仿佛拥抱着星球本身的呼吸韵律，这神秘多变又流动的实体，除却几条帆船点缀其间，便是无垠。我们四面被波浪环绕，飘荡在摇篮里，由此海才是真的能沾湿指尖，捧一把海水，捞起来的一点点透明流体瞬时祛魅，变得再普通不过。&lt;/p&gt;
+
+&lt;p&gt;可海的颜色却没有减少半分，
+蓝得不可触碰。&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_5423.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt; 
+		A simple world with a single color from the perspective of a kayak.
+    &lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 09 Dec 2018 21:12:00 +0100</pubDate>
+        <link>http://localhost:4000/en/cinque-terre,/italy/2018/12/09/cinque-terre/</link>
+        <guid isPermaLink="true">http://localhost:4000/en/cinque-terre,/italy/2018/12/09/cinque-terre/</guid>
+        
+        <category>cinque-terre</category>
+        
+        <category>italy</category>
+        
+        
+        <category>en</category>
+        
+        <category>cinque-terre,</category>
+        
+        <category>italy</category>
+        
+      </item>
     
       <item>
         <title>漂浮在Elba岛</title>
@@ -19,18 +251,18 @@
 &lt;em&gt;空澄寂寥如海&lt;/em&gt;&lt;/p&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2500.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2500.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
-		Toscan群岛漂浮于碧蓝之上。从Marciana Marina看Capraia Isola。
+		Tuscan群岛漂浮于碧蓝之上。从Marciana Marina看Capraia Isola。
 	&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2615.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2615.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2487.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2487.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -49,10 +281,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2666.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2666.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2735.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2735.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -66,10 +298,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2492.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2492.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2638.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2638.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -85,10 +317,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2349.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2349.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2518.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2518.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -101,10 +333,10 @@
 &lt;/div&gt;
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/cat1.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/cat1.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/cat2.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/cat2.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -122,10 +354,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2743.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2743.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2777.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2777.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -138,15 +370,15 @@
 	&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2404.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2404.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
 	猫大师在甲板风中。Elba你好！Elba再见！
     &lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 13:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/zh/elba,/italy/2017/11/29/elba/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/zh/elba,/italy/2017/11/29/elba/</guid>
+        <link>http://localhost:4000/zh/elba,/italy/2017/11/29/elba/</link>
+        <guid isPermaLink="true">http://localhost:4000/zh/elba,/italy/2017/11/29/elba/</guid>
         
         <category>elba</category>
         
@@ -172,7 +404,7 @@
 &lt;p&gt;Someone named Bonaparte was once imprisoned here, and he surely shared such feeling.&lt;/p&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2500.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2500.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
 		Floating Tuscan Archipelago in azure water. View of Capraia Isola from Marciana Marina.
 	&lt;/p&gt;
@@ -180,10 +412,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2615.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2615.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2487.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2487.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -197,14 +429,14 @@
 
 &lt;p&gt;Our host found it quite a surprise that so many German speaking tourists came to Elba in such a season. Maybe it’s the extra vacation this year of 500th anniversary of the religious reformation of Martin Luther, or maybe it’s the last warm days before dwelling into the cold and damp Teutonic winter. And indeed, the presence of tourists in an unexpected periods seems inappropriate and disturbing, the island was just planning to breathe some relief and return to peace.&lt;/p&gt;
 
-&lt;p&gt;In the summer sun the island is so stacked with tourists: hotels crowded, villas crowded, sheds and ranches crowded, and even the 5-star-super-luxurious overlooking-the-bay swimming pools are crowded with people holding dishes of reddish lobsters, cups of spakling wines, and watching the beach littered with bright colored sunshades. And here at the moment, there is nothing but the waves caressing the peddle. A cat that seems to be the owner of this beach of Samson, leaping and leading before us from the narrow pathway until the small bank that is pushed up by the sea, and there it sits, after rubbing us on the legs to state its welcoming gesture as lord of Samson beach. With a composed form being the lord, when the other group of tourists came to the beach, the cat also went there to rub them in the legs. Perhaps for a cat this beach, the bay, and the island is big enough to be the world it’d ever live in, however at time the cat also stares beyond the waves, does it also wonder what life would be like on the other side - after all cat is a species overdosed with curiousity and ambition.&lt;/p&gt;
+&lt;p&gt;In the summer sun the island is so stacked with tourists: hotels crowded, villas crowded, sheds and ranches crowded, and even the 5-star-super-luxurious overlooking-the-bay swimming pools are crowded with people holding dishes of reddish lobsters, cups of spakling wines, and watching the beach littered with bright colored sunshades. And here at the moment, there is nothing but the waves caressing the pebble. A cat that seems to be the owner of this beach of Samson, leaping and leading before us from the narrow pathway until the small bank that is pushed up by the sea, and there it sits, after rubbing us on the legs to state its welcoming gesture as lord of Samson beach. With a composed form being the lord, when the other group of tourists came to the beach, the cat also went there to rub them in the legs. Perhaps for a cat this beach, the bay, and the island is big enough to be the world it’d ever live in, however at time the cat also stares beyond the waves, does it also wonder what life would be like on the other side - after all cat is a species overdosed with curiousity and ambition.&lt;/p&gt;
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2666.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2666.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2735.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2735.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -218,10 +450,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2492.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2492.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2638.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2638.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -237,10 +469,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2349.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2349.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2518.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2518.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -254,10 +486,10 @@
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2743.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2743.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2777.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2777.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -275,15 +507,15 @@
 There the leaves of tomates on the shelf waved a little bit, maybe it also misses us.&lt;/p&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2760.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2760.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
 	Sunset over Portoferraio - port of iron, sounds a little bit like some place from game of thrones.
     &lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 13:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/en/elba,/italy/2017/11/29/elba/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/en/elba,/italy/2017/11/29/elba/</guid>
+        <link>http://localhost:4000/en/elba,/italy/2017/11/29/elba/</link>
+        <guid isPermaLink="true">http://localhost:4000/en/elba,/italy/2017/11/29/elba/</guid>
         
         <category>elba</category>
         
@@ -311,7 +543,7 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 &lt;p&gt;意大利警察3个一堆在闲聊，每辆车都要检查一下，看我们护照是中国人，就有了意大利人对中国人额外的关照：“请出示一下钱包里的现钞”，只要不是一沓500块欧元的大钞，他们摆摆手我们就继续行程了。以前听熊说意大利的中国生意人在缴税上动手脚，为了避免被查都是用一摞摞现金，而不是银行中转，砖块一样的500欧元大钞摆一屋子肯定是一幅奇景，就和前阵“人民的名义”电视剧里似的，不过我们钱包里现金加起来也不够一张500块，这一遭就并没有什么戏剧性。&lt;/p&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2175.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2175.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
 		“角斗士”小路——在电影里这几颗小树也成了明星，甚至是罗素克劳“轻抚”过的这些野草/麦子。摄于Pienza附近，Agriturismo a Terrapille东北方向。
 	&lt;/p&gt;
@@ -319,10 +551,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2027.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2027.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2314.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2314.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -345,10 +577,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1272.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1272.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1722.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1722.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -362,10 +594,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1658.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1658.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1446.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1446.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -386,10 +618,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_0819.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_0819.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_0887.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_0887.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -401,15 +633,15 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 	&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_0652.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_0652.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
 		阿尔卑斯山区湖滨的交响：卵石、天鹅、青草、树木、湖水、云朵、房子、镇子和人——从San Siro看科莫湖。
 	&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 13:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/zh/tuscany,/italy/2017/11/10/tuscany/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/zh/tuscany,/italy/2017/11/10/tuscany/</guid>
+        <link>http://localhost:4000/zh/tuscany,/italy/2017/11/10/tuscany/</link>
+        <guid isPermaLink="true">http://localhost:4000/zh/tuscany,/italy/2017/11/10/tuscany/</guid>
         
         <category>tuscany</category>
         
@@ -431,7 +663,7 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 &lt;p&gt;We have had left Karlsruhe very early in the morning and hasted southwards as fast as possible to catch the first rays of sunlight right at the feet of those snow-covered summits, at least it was planned as such. In Switzerland traffic jammed along the Autobahn and Herr Giraffe had made a wrong decision to head for Lucerne while the navigation opted for Zurich, effectively prolonging the journey to Italy for another hour. Plus, as daylight fell there is no way the sun showed himself, not on this side of the Alps to say the least, and by the time we reached Lugano on the other side, it was already noon.&lt;/p&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2175.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2175.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
 		Gladiator Road as per our agriturismo host, plus the wheat/weed Russel may have had caressed. A view of Agriturismo A Terrapille from NE near Pienza.
 	&lt;/p&gt;
@@ -439,10 +671,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2027.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2027.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_2314.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_2314.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -462,10 +694,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1272.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1272.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1722.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1722.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -479,10 +711,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1658.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1658.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_1446.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_1446.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -502,10 +734,10 @@ There the leaves of tomates on the shelf waved a little bit, maybe it also misse
 Or rather it is us, the mortal, who have achieved?&lt;/p&gt;
 &lt;div class=&quot;post-image post-image--split&quot;&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_0819.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_0819.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;a href=&quot;#&quot;&gt;
-        &lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_0887.jpg&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/foto/italia/IMG_0887.jpg&quot; /&gt;
     &lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt;
     	&lt;span class=&quot;post-image-caption-left&quot;&gt;
@@ -517,15 +749,15 @@ Or rather it is us, the mortal, who have achieved?&lt;/p&gt;
 	&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;post-image&quot;&gt;
-    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;https://lmodan.github.io/foto/1710-italia/IMG_0652.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://localhost:4000/foto/italia/IMG_0652.jpg&quot; /&gt;&lt;/a&gt;
     &lt;p class=&quot;post-image-caption&quot;&gt; 
 		Harmony of the swan, the clouds, the water, the sun, the villiage, and the people around an Alpine lake: Lago di Como viewed from San Siro.
 	&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 13:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/en/tuscany,/italy/2017/11/10/tuscany/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/en/tuscany,/italy/2017/11/10/tuscany/</guid>
+        <link>http://localhost:4000/en/tuscany,/italy/2017/11/10/tuscany/</link>
+        <guid isPermaLink="true">http://localhost:4000/en/tuscany,/italy/2017/11/10/tuscany/</guid>
         
         <category>tuscany</category>
         
@@ -554,8 +786,8 @@ Or rather it is us, the mortal, who have achieved?&lt;/p&gt;
 &lt;p&gt;对于文章里的照片来说，读者可以看到照片上的水印，其功能不言自明。我俩能理解有的朋友对于漂亮的照片等等十分喜爱，并且对如此美好事物有“占有欲”，想要得到“原图”，但其实长颈鹿先生觉得这其实并不太合适，另外也着实没有必要。&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 11:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/zh/karlsruhe,/germany/2017/11/10/the-first-blog/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/zh/karlsruhe,/germany/2017/11/10/the-first-blog/</guid>
+        <link>http://localhost:4000/zh/karlsruhe,/germany/2017/11/10/the-first-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/zh/karlsruhe,/germany/2017/11/10/the-first-blog/</guid>
         
         <category>karlsruhe</category>
         
@@ -580,8 +812,8 @@ After hours experimenting with &lt;em&gt;pagination and multilingual&lt;/em&gt; 
 &lt;p&gt;Turning then for jekyll-paginate-v2 on the second attempt, with the locale settings, it is possible now to paginate/categorize with respect to different languages, the outcome becomes the current version of the website: operational but somehow not-so-elegant. Also theoretically it should work on tablets and smartphones, but some bits like the language selector may not adapt to specific screens so well.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Nov 2017 11:51:55 +0100</pubDate>
-        <link>https://lmodan.github.io/en/karlsruhe,/germany/2017/11/10/the-first-blog/</link>
-        <guid isPermaLink="true">https://lmodan.github.io/en/karlsruhe,/germany/2017/11/10/the-first-blog/</guid>
+        <link>http://localhost:4000/en/karlsruhe,/germany/2017/11/10/the-first-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/en/karlsruhe,/germany/2017/11/10/the-first-blog/</guid>
         
         <category>karlsruhe</category>
         
